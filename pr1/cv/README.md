@@ -3,6 +3,14 @@
 </h1>
 
 <h2>
+    <a href="https://asep10001.github.io/g2academy/pr1/cv/homepage.html">
+        <button>
+            Ini merupakan deployment github pages saya untuk project CV
+        </button>
+        
+    </a>
+</h2>
+<h2>
     TUGAS INI MENGHARUSKAN UNTUK
 </h2>
 
