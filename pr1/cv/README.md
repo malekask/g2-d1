@@ -11,9 +11,9 @@
         <li>Membuat sebuah halaman HOMEPAGE</li>
         <li>Membuat sebuah halaman about</li>
         <li>Membuat sebuah halaman lainnya 3 halaman</li>
-
+    </ol>
         <p>
             Pada project kali ini saya membuat tiga halaman tambahan yakni project, certifications, dan educations.
         </p>
-    </ol>
+    
 </h3>
