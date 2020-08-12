@@ -3,7 +3,7 @@
 </h1>
 
 <h2>
-    <a href="https://asep10001.github.io/g2academy/pr1/cv/homepage.html">
+    <a href="https://asep10001.github.io/g2-d1/pr1/cv/homepage.html">
         <button>
             Ini merupakan deployment github pages saya untuk project CV
         </button>
