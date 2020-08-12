@@ -7,8 +7,7 @@
         <button>
             Ini merupakan deployment github pages saya untuk project CV
         </button>
-        
-    </a>
+    </a>    
 </h2>
 <h2>
     TUGAS INI MENGHARUSKAN UNTUK
